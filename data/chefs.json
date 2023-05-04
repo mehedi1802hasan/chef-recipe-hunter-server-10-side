@@ -9,19 +9,19 @@
         "chefPicture":"https://img.freepik.com/free-vector/coloured-chefdesign_1152-72.jpg?w=740&t=st=1683141669~exp=1683142269~hmac=baef4720f231a4a26c81482868f69736f8b90a400ee17d6e28a6687f3b2916e3" ,
         "recipes": [
           {
-            "name": "Pizza Margherita ","rating:":" 4.5 star" ,
+            "name": "Pizza Margherita ","rating":5,
             "ingredients": "1.300g strong bread flour,2.1 tsp instant yeast (from a sachet or a tub),3.1 tsp salt,4.1 tbsp olive oil, plus extra for drizzling,5.100ml passata",
             "method":"Add the onions, carrots, celery, garlic, mushrooms, tomatoes, tomato purée, herbs, wine (if using), vinegar, sugar and seasoning to the slow cooker. Cover and cook on Low for 6-8 hours, then uncover, turn to High and cook for another hour until thick and saucy."  
            
              },
           {
-            "name": "BBQ salad pizza","rating:":" 4.6 star" ,
+            "name": "BBQ salad pizza","rating":3.4 ,
             "ingredients": "1.200g strong white bread flour, plus extra for dusting,2.200g long-stem broccoli,3.1 tsp salt,4.1 tbsp olive oil, plus extra for drizzling,5.30 toasted and roughly chopped",
             "method":"Heat the oven to 200C/180C fan/ gas 6. Brush the edge of each pastry case with egg, avoiding the marked-out middles. Bake for 15-20 mins, swapping the trays halfway through, if needed. When ready, the pastry cases will be puffed up and deep golden brown. Gently press down the middle of each – you may need to use a small, sharp knife to do this. Leave to cool slightly, then fill (choose a filling below) and serve. Best served on the day."
            
           },
           {
-            "name": "Coronation quiche ","rating:":" 5 star" ,
+            "name": "Coronation quiche ","rating":5 ,
             "ingredients": "1.250g plain flour, plus a little for dusting2125ml milk,3.1 tsp salt,4.50g lard (or use butter if you prefer)5.100ml passata",
             "method":"Sieve the flour into a bowl with ½ tsp salt. Add the butter and lard, and rub the mixture together using your fingertips until you get a sandy, breadcrumb-like texture. Add the milk, a little at a time, and using a cutlery knife, start to bring the dough together, using your hands, making sure it has no dry patches and feels smooth. Cover and allow to rest in the fridge for 30-45 mins."
          
@@ -38,18 +38,18 @@
         "chefPicture":"https://img.freepik.com/free-vector/hand-drawn-chef-character_23-2147630496.jpg?w=740&t=st=1683141808~exp=1683142408~hmac=7e8df8b2e91c2bdcb7287eb21fc644dd58a7f02db2f2755c472651874875b619" ,
         "recipes": [
           {
-            "name": "Pizza Margherita ","rating:":" 3.6 star" ,
+            "name": "Pizza Margherita ","rating":5 ,
             "ingredients": "1.300g strong bread flour,2.1 tsp instant yeast (from a sachet or a tub),3.1 tsp salt,4.1 tbsp olive oil, plus extra for drizzling,5.100ml passata",
             "method":"Add the onions, carrots, celery, garlic, mushrooms, tomatoes, tomato purée, herbs, wine (if using), vinegar, sugar and seasoning to the slow cooker. Cover and cook on Low for 6-8 hours, then uncover, turn to High and cook for another hour until thick and saucy."  
              },
           {
-            "name": "BBQ salad pizza","rating:":" 4.6 star" ,
+            "name": "BBQ salad pizza","rating":4.4 ,
             "ingredients": "1.200g strong white bread flour, plus extra for dusting,2.200g long-stem broccoli,3.1 tsp salt,4.1 tbsp olive oil, plus extra for drizzling,5.30 toasted and roughly chopped",
             "method":"Heat the oven to 200C/180C fan/ gas 6. Brush the edge of each pastry case with egg, avoiding the marked-out middles. Bake for 15-20 mins, swapping the trays halfway through, if needed. When ready, the pastry cases will be puffed up and deep golden brown. Gently press down the middle of each – you may need to use a small, sharp knife to do this. Leave to cool slightly, then fill (choose a filling below) and serve. Best served on the day."
            
           },
           {
-            "name": "Coronation quiche ","rating:":" 4.6 star" ,
+            "name": "Coronation quiche ","rating": 4.6 ,
             "ingredients": "1.250g plain flour, plus a little for dusting2125ml milk,3.1 tsp salt,4.50g lard (or use butter if you prefer)5.100ml passata",
             "method":"Sieve the flour into a bowl with ½ tsp salt. Add the butter and lard, and rub the mixture together using your fingertips until you get a sandy, breadcrumb-like texture. Add the milk, a little at a time, and using a cutlery knife, start to bring the dough together, using your hands, making sure it has no dry patches and feels smooth. Cover and allow to rest in the fridge for 30-45 mins."
           
@@ -66,19 +66,19 @@
         "chefPicture":"https://img.freepik.com/free-vector/hand-drawn-chef-badge_23-2147517380.jpg?w=740&t=st=1683143934~exp=1683144534~hmac=430ab33d9701a7798e21acf49a57e8856ac97bbd00a62daba2d512f305cd4bb3" ,
         "recipes": [
           {
-            "name": "Pizza Margherita ","rating:":" 4.5 star" ,
+            "name": "Pizza Margherita ","rating":3.3 ,
             "ingredients": "1.300g strong bread flour,2.1 tsp instant yeast (from a sachet or a tub),3.1 tsp salt,4.1 tbsp olive oil, plus extra for drizzling,5.100ml passata",
             "method":"Add the onions, carrots, celery, garlic, mushrooms, tomatoes, tomato purée, herbs, wine (if using), vinegar, sugar and seasoning to the slow cooker. Cover and cook on Low for 6-8 hours, then uncover, turn to High and cook for another hour until thick and saucy."  
          
              },
           {
-            "name": "BBQ salad pizza","rating:":" 4.9 star" ,
+            "name": "BBQ salad pizza","rating":3.6 ,
             "ingredients": "1.200g strong white bread flour, plus extra for dusting,2.200g long-stem broccoli,3.1 tsp salt,4.1 tbsp olive oil, plus extra for drizzling,5.30 toasted and roughly chopped",
             "method":"Heat the oven to 200C/180C fan/ gas 6. Brush the edge of each pastry case with egg, avoiding the marked-out middles. Bake for 15-20 mins, swapping the trays halfway through, if needed. When ready, the pastry cases will be puffed up and deep golden brown. Gently press down the middle of each – you may need to use a small, sharp knife to do this. Leave to cool slightly, then fill (choose a filling below) and serve. Best served on the day."
          
           },
           {
-            "name": "Coronation quiche ","rating:":" 4.5 star" ,
+            "name": "Coronation quiche ","rating":5 ,
             "ingredients": "1.250g plain flour, plus a little for dusting2125ml milk,3.1 tsp salt,4.50g lard (or use butter if you prefer)5.100ml passata",
             "method":"Sieve the flour into a bowl with ½ tsp salt. Add the butter and lard, and rub the mixture together using your fingertips until you get a sandy, breadcrumb-like texture. Add the milk, a little at a time, and using a cutlery knife, start to bring the dough together, using your hands, making sure it has no dry patches and feels smooth. Cover and allow to rest in the fridge for 30-45 mins."
           
@@ -95,25 +95,27 @@
         "chefPicture":"https://img.freepik.com/free-vector/cute-bakery-chef-girl-smiling-uniform-mascots-cartoon-art-illustration_56104-571.jpg?w=740&t=st=1683141928~exp=1683142528~hmac=9e21d45aab47160ad26d63d7991ea23551c0c37391b398d081a79dd7e695bc6e" ,
         "recipes": [
           {
-            "name": "Pizza Margherita ", "rating:":" 4.8 star" ,
+            "name": "Pizza Margherita ", "rating":4.5 ,
             "ingredients": "1.300g strong bread flour,2.1 tsp instant yeast (from a sachet or a tub),3.1 tsp salt,4.1 tbsp olive oil, plus extra for drizzling,5.100ml passata",
             "method":"Add the onions, carrots, celery, garlic, mushrooms, tomatoes, tomato purée, herbs, wine (if using), vinegar, sugar and seasoning to the slow cooker. Cover and cook on Low for 6-8 hours, then uncover, turn to High and cook for another hour until thick and saucy."  
             
              },
           {
-            "name": "BBQ salad pizza","rating:":" 4.9 star" ,
+            "name": "BBQ salad pizza","rating":5,
             "ingredients": "1.200g strong white bread flour, plus extra for dusting,2.200g long-stem broccoli,3.1 tsp salt,4.1 tbsp olive oil, plus extra for drizzling,5.30 toasted and roughly chopped",
             "method":"Heat the oven to 200C/180C fan/ gas 6. Brush the edge of each pastry case with egg, avoiding the marked-out middles. Bake for 15-20 mins, swapping the trays halfway through, if needed. When ready, the pastry cases will be puffed up and deep golden brown. Gently press down the middle of each – you may need to use a small, sharp knife to do this. Leave to cool slightly, then fill (choose a filling below) and serve. Best served on the day."
            
           },
           {
-            "name": "Coronation quiche ","rating:":" 4.5 star" ,
+            "name": "Coronation quiche ","rating":4.9 ,
             "ingredients": "1.250g plain flour, plus a little for dusting2125ml milk,3.1 tsp salt,4.50g lard (or use butter if you prefer)5.100ml passata",
             "method":"Sieve the flour into a bowl with ½ tsp salt. Add the butter and lard, and rub the mixture together using your fingertips until you get a sandy, breadcrumb-like texture. Add the milk, a little at a time, and using a cutlery knife, start to bring the dough together, using your hands, making sure it has no dry patches and feels smooth. Cover and allow to rest in the fridge for 30-45 mins."
            
           }
         ]
-      },  {
+      }
+      ,
+      {
         "id": 5,
         "chefName": "Mariana Sansania",
         "yearsOfExperience": 10,
@@ -123,19 +125,19 @@
         "chefPicture":"https://img.freepik.com/free-vector/man-chef-cooking-cartoon-illustration_138676-2048.jpg?w=740&t=st=1683141949~exp=1683142549~hmac=4de200c2d2db2a6efbaa2df2b0c35bc5ea89901157920dbce8e1a78b49b06c85" ,
         "recipes": [
           {
-            "name": "Pizza Margherita ","rating":"4.3 star",
+            "name": "Pizza Margherita ","rating":5,
             "ingredients": "1.300g strong bread flour,2.1 tsp instant yeast (from a sachet or a tub),3.1 tsp salt,4.1 tbsp olive oil, plus extra for drizzling,5.100ml passata",
             "method":"Add the onions, carrots, celery, garlic, mushrooms, tomatoes, tomato purée, herbs, wine (if using), vinegar, sugar and seasoning to the slow cooker. Cover and cook on Low for 6-8 hours, then uncover, turn to High and cook for another hour until thick and saucy."  
             
              },
           {
-            "name": "BBQ salad pizza","rating":"4.4 star",
+            "name": "BBQ salad pizza","rating":4,
             "ingredients": "1.200g strong white bread flour, plus extra for dusting,2.200g long-stem broccoli,3.1 tsp salt,4.1 tbsp olive oil, plus extra for drizzling,5.30 toasted and roughly chopped",
             "method":"Heat the oven to 200C/180C fan/ gas 6. Brush the edge of each pastry case with egg, avoiding the marked-out middles. Bake for 15-20 mins, swapping the trays halfway through, if needed. When ready, the pastry cases will be puffed up and deep golden brown. Gently press down the middle of each – you may need to use a small, sharp knife to do this. Leave to cool slightly, then fill (choose a filling below) and serve. Best served on the day."
           
           },
           {
-            "name": "Coronation quiche ","rating":"4.8 star",
+            "name": "Coronation quiche ","rating":4.8,
             "ingredients": "1.250g plain flour, plus a little for dusting2125ml milk,3.1 tsp salt,4.50g lard (or use butter if you prefer)5.100ml passata",
             "method":"Sieve the flour into a bowl with ½ tsp salt. Add the butter and lard, and rub the mixture together using your fingertips until you get a sandy, breadcrumb-like texture. Add the milk, a little at a time, and using a cutlery knife, start to bring the dough together, using your hands, making sure it has no dry patches and feels smooth. Cover and allow to rest in the fridge for 30-45 mins."
          
@@ -153,7 +155,7 @@
         "recipes": [
           {
             "name": "Pizza Margherita ",
-            "rating":"6 star",
+            "rating":5,
             "ingredients": "1.300g strong bread flour,2.1 tsp instant yeast (from a sachet or a tub),3.1 tsp salt,4.1 tbsp olive oil, plus extra for drizzling,5.100ml passata",
             "method":"Add the onions, carrots, celery, garlic, mushrooms, tomatoes, tomato purée, herbs, wine (if using), vinegar, sugar and seasoning to the slow cooker. Cover and cook on Low for 6-8 hours, then uncover, turn to High and cook for another hour until thick and saucy."  
                
@@ -162,19 +164,17 @@
             "name": "BBQ salad pizza",
             "ingredients": "1.200g strong white bread flour, plus extra for dusting,2.200g long-stem broccoli,3.1 tsp salt,4.1 tbsp olive oil, plus extra for drizzling,5.30 toasted and roughly chopped",
             "method":"Heat the oven to 200C/180C fan/ gas 6. Brush the edge of each pastry case with egg, avoiding the marked-out middles. Bake for 15-20 mins, swapping the trays halfway through, if needed. When ready, the pastry cases will be puffed up and deep golden brown. Gently press down the middle of each – you may need to use a small, sharp knife to do this. Leave to cool slightly, then fill (choose a filling below) and serve. Best served on the day.",
-            "rating:":" 4 star"
+            "rating":5
           },
           {
             "name": "Coronation quiche ",
-            "rating":"3.9 star",
+            "rating":4,
             "ingredients": "1.250g plain flour, plus a little for dusting2125ml milk,3.1 tsp salt,4.50g lard (or use butter if you prefer)5.100ml passata",
             "method":"Sieve the flour into a bowl with ½ tsp salt. Add the butter and lard, and rub the mixture together using your fingertips until you get a sandy, breadcrumb-like texture. Add the milk, a little at a time, and using a cutlery knife, start to bring the dough together, using your hands, making sure it has no dry patches and feels smooth. Cover and allow to rest in the fridge for 30-45 mins."
             
           }
         ]
       }
-      
-    
     ]
   
   
