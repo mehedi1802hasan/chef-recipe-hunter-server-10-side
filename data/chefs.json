@@ -55,6 +55,35 @@
           
           }
         ]
+      },
+      {
+        "id": 3,
+        "chefName": "Alxa Trans",
+        "yearsOfExperience": 10,
+        "numberOfRecipes":   50,
+        "chefDescription": "adsj",
+        "likes": 1000,
+        "chefPicture":"https://img.freepik.com/free-vector/hand-drawn-chef-badge_23-2147517380.jpg?w=740&t=st=1683143934~exp=1683144534~hmac=430ab33d9701a7798e21acf49a57e8856ac97bbd00a62daba2d512f305cd4bb3" ,
+        "recipes": [
+          {
+            "name": "Pizza Margherita ","rating:":" 4.5 star" ,
+            "ingredients": "1.300g strong bread flour,2.1 tsp instant yeast (from a sachet or a tub),3.1 tsp salt,4.1 tbsp olive oil, plus extra for drizzling,5.100ml passata",
+            "method":"Add the onions, carrots, celery, garlic, mushrooms, tomatoes, tomato purée, herbs, wine (if using), vinegar, sugar and seasoning to the slow cooker. Cover and cook on Low for 6-8 hours, then uncover, turn to High and cook for another hour until thick and saucy."  
+         
+             },
+          {
+            "name": "BBQ salad pizza","rating:":" 4.9 star" ,
+            "ingredients": "1.200g strong white bread flour, plus extra for dusting,2.200g long-stem broccoli,3.1 tsp salt,4.1 tbsp olive oil, plus extra for drizzling,5.30 toasted and roughly chopped",
+            "method":"Heat the oven to 200C/180C fan/ gas 6. Brush the edge of each pastry case with egg, avoiding the marked-out middles. Bake for 15-20 mins, swapping the trays halfway through, if needed. When ready, the pastry cases will be puffed up and deep golden brown. Gently press down the middle of each – you may need to use a small, sharp knife to do this. Leave to cool slightly, then fill (choose a filling below) and serve. Best served on the day."
+         
+          },
+          {
+            "name": "Coronation quiche ","rating:":" 4.5 star" ,
+            "ingredients": "1.250g plain flour, plus a little for dusting2125ml milk,3.1 tsp salt,4.50g lard (or use butter if you prefer)5.100ml passata",
+            "method":"Sieve the flour into a bowl with ½ tsp salt. Add the butter and lard, and rub the mixture together using your fingertips until you get a sandy, breadcrumb-like texture. Add the milk, a little at a time, and using a cutlery knife, start to bring the dough together, using your hands, making sure it has no dry patches and feels smooth. Cover and allow to rest in the fridge for 30-45 mins."
+          
+          }
+        ]
       }
     ]
   
